@@ -1,5 +1,5 @@
  <h1><b>Hey, I'm Rima Rzouga</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
-         
+         https://github-readme-stats.vercel.app/api?username=rimarzouga&show_icons=true&theme=radical
 <!--- 👋 Hi, I’m @rimarzouga
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
