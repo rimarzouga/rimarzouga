@@ -1,7 +1,7 @@
  <h1><b>Hey, I'm Rima Rzouga</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
  <h1>Passionate Full Stack Developer specialized in JavaScript, react, and Express.js (MEAN-STACK). Experienced in front-end, back-end, and SQL/NoSQL database management (PostgreSQL, MongoDB, SQlserveur). Currently seeking a position to apply my skills to innovative projects.</h1>
-<section id="about" class="card">
-               
+              <section id="about" class="card">
+                <br>
                 <h3>🧑‍💻 About Me:</h3>
                 <ul>
                     <li>🌱 I’m currently learning <b>Full-Stack JavaScript Development.</b></li>
