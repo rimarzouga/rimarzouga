@@ -14,15 +14,40 @@
 <section id="skills" class="card">
                 <h3>🛠️ My Skills:</h3>
                 <p class="skills">
-                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-                    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-                    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-                    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-                    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-                    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-                    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-                    <img src="https://img.shields.io/badge/bootstrap-F7DF1E?style=flat&logo=bootstrap&logoColor=black" alt="bootstrap 5">
-                </p>
+              <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/?fbclid=IwAR2drutmyfURdcxfR4_j1cyvingyoyz8Ngn70yWpstpg0ZJDMA6vQwZmnDI" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" width="100" height="40"/></a>
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/bootstrap-F7DF1E?style=flat&logo=bootstrap&logoColor=black" alt="bootstrap 5" width="100" height="40"/></a>
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1nBY76QtpuFT2q1hyK9wJeNGlEwydJWYsFG5LWqTcLsN0hY-BNijM1NyasndGxlxHP4s&amp;usqp=CAU" class="sFlh5c FyHeAf" alt="WINDEV 25 - Concepts" jsname="JuXqh" style="max-width: 50px; height: 40px; margin: 0px; width: 153px;" data-ilt="1751813750309">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img width="50" height="50" src="https://img.prehost.com/php.png" alt="PHP" decoding="async" fetchpriority="high" >
+</a></p>
             </section>
       <img src="https://github-readme-stats.vercel.app/api?username=rimarzouga&show_icons=true&theme=radical" alt="GitHub Stats">
 <!---  https://github-readme-stats.vercel.app/api?username=rimarzouga&show_icons=true&theme=radical
