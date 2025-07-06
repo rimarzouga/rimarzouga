@@ -4,8 +4,9 @@
                 <br>
                 <h3>🧑‍💻 About Me:</h3>
                 <ul>
+                 <li>📝 I’m currently learning <b>MERN, JavaScript,React ,AI</b></li>
                     <li>🌱 I’m currently learning <b>Full-Stack JavaScript Development.</b></li>
-                    <li>💻 I work on projects with <b>Node.js, React, MongoDB, and more.</b></li>
+                    <li>💻 I work on projects with <b>Node.js, React,Express jS, MongoDB, and more.</b></li>
                     <li>📧 You can reach me at <b>Rima21rzouga@gmail.com.</b></li>
                 </ul>
             </section>
