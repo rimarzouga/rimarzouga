@@ -40,13 +40,13 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/?fbclid=IwAR2drutmyfURdcxfR4_j1cyvingyoyz8Ngn70yWpstpg0ZJDMA6vQwZmnDI" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" width="100" height="40"/></a>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" width="100" height="300"/></a>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/bootstrap-F7DF1E?style=flat&logo=bootstrap&logoColor=black" alt="bootstrap 5" width="100" height="100"/></a>
+<img src="https://img.shields.io/badge/bootstrap-F7DF1E?style=flat&logo=bootstrap&logoColor=black" alt="bootstrap 5" width="100" height="300"/></a>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1nBY76QtpuFT2q1hyK9wJeNGlEwydJWYsFG5LWqTcLsN0hY-BNijM1NyasndGxlxHP4s&amp;usqp=CAU" class="sFlh5c FyHeAf" alt="WINDEV 25 - Concepts" jsname="JuXqh" style="max-width: 50px; height: 40px; margin: 0px; width: 50;" data-ilt="1751813750309">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img width="50" height="50" src="https://img.prehost.com/php.png" alt="PHP" decoding="async" fetchpriority="high" >
+<img width="100" height="100" src="https://img.prehost.com/php.png" alt="PHP" decoding="async" fetchpriority="high" >
 </a></p>
             </section>
       <img src="https://github-readme-stats.vercel.app/api?username=rimarzouga&show_icons=true&theme=radical" alt="GitHub Stats">
