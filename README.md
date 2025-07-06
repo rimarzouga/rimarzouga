@@ -9,6 +9,9 @@
  <section id="skills" class="card">
                 <h3>🛠️ My Skills:</h3>
                 <p class="skills">
+                 <a href="https://react.dev/" target="_blank" rel="noreferrer">
+ <img src="https://react.io/assets/images/logos/react/react.svg" alt="react" width="40" height="40"/> </a>
+
                     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
                     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
                     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
